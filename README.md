@@ -1,17 +1,21 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrik-3&show_icons=true&theme=slateorange)
+<!-- Profile README for @raimannma -->
+<h1>Hi, I'm Henrik</h1>
 
-<!--
-**Henrik-3/Henrik-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## NxtCore
+Founder of [@nxtcore](https://github.com/NxtCore), my more private, more economic focused projects targeting professional users and teams. More on this in the near future
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## Tech Stack
+<img src="https://skillicons.dev/icons?i=js,ts,rust&perline=6" />
+<img src="https://skillicons.dev/icons?i=bun,discordjs,nuxtjs,vue&perline=6"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=6" />
+<img src="https://skillicons.dev/icons?i=idea&perline=6"/>
+
+---
+
+## 📫 Contact
+- Email: <a href="mailto:contact@henrikdev.xyz">contact@henrikdev.xyz</a>#
+- Discord: @henrik3
