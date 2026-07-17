@@ -21,4 +21,5 @@ Founder of [@nxtcore](https://github.com/NxtCore), my more private, more economi
 
 ## 📫 Contact
 - Email: <a href="mailto:contact@henrikdev.xyz">contact@henrikdev.xyz</a>
+- Slack: admin@henrikdev.xyz
 - Discord: @henrik3
